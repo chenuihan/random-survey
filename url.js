@@ -8,6 +8,12 @@
 
 
 const urls = [
-	'https://docs.google.com/forms/d/e/1FAIpQLScd_YIa2nJk0WTtBUL7DhFstyzac_hx7V6KEx9FUXgDkXVTzw/viewform?usp=sf_link',
-	'https://docs.google.com/forms/d/e/1FAIpQLSeYqOJTg4Kat-oq-LP-jwxz03kgQ2m4ljzWiywEtGWBtvLiAQ/viewform?usp=sf_link'
+	'https://forms.gle/ZZbkFPU53MqERNUK6',
+	'https://forms.gle/EWzjq94HTDkypgCk6',
+	'https://forms.gle/t6absJjXHE6u36sn9',
+	'https://forms.gle/BQY5UBHtiLYao3ow5',
+	'https://forms.gle/rerT72ovMia3fEocA',
+	'https://forms.gle/vmC389GJHhfxJwdV6',
+	'https://forms.gle/EGNDYBZvrK241dUE8',
+	'https://forms.gle/AKr9BVWzugkg8tk96'
 ];
